@@ -1,0 +1,55 @@
+body {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.nav-link {
+    font-family: 'Zen Tokyo Zoo', cursive;
+    color: blue;
+    transition: ease 5s;
+}
+h1 {
+    font-family: 'Zen Tokyo Zoo', cursive;
+    color: darkblue;
+    transition: ease 5s;
+}
+h3 {
+    font-family: 'Cormorant Garamond', serif;
+    color: darkblue;
+    transition: ease 5s;
+}
+.cover {
+    height: 900px;
+    color: darkblue;
+    background-image: url(file:///C:/Users/usuario/Documents/santi/car2/imagenes/jose-luis-RHK72RiOvME-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: darken;
+    transition: ease 5s;
+}
+.TJ {
+    color: darkblue;
+    text-align: center;
+    cursor: auto;
+    transition: ease 5s;
+}
+.TJ:hover {
+    color: rgb(230, 230, 230);
+    transition: ease 3.0s;
+    transition: ease 5s;
+}
+.img2 {
+    width: 1000px;
+    height: 750px;
+    position: left;
+    display: flex;
+    transition: ease 5s;
+}
+.h31 {
+    text-align: center;
+    transition: ease 5s;
+}
+a {
+    text-decoration: none;
+    transition: ease 5s;
+}

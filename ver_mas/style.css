@@ -1,0 +1,33 @@
+body {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+h1 {
+    font-family: 'Zen Tokyo Zoo', cursive;
+    color: snow;
+    transition: ease 5s;
+}
+h3 {
+    font-family: 'Cormorant Garamond', serif;
+    color: blue;
+    transition: ease 5s;
+}
+.nav-link {
+    font-family: 'Zen Tokyo Zoo', cursive;
+    color: blue;
+    transition: ease 5s;
+}
+.cover {
+    height: 900px;
+    color: darkblue;
+    background-image: url(file:///C:/Users/usuario/Documents/santi/car2/imagenes/jezael-melgoza-2xBb36ebevg-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: darken;
+    transition: ease 5s;
+}
+.h1 {
+    text-align: center;
+    transition: ease 5s;
+}
